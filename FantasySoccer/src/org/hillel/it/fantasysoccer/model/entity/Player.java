@@ -1,15 +1,17 @@
 package org.hillel.it.fantasysoccer.model.entity;
 
-public class User {
+public class Player {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		int id;
 		string name;
-		string password;
-		int age;
+		int coast;
+		string position;
+
 	}
 
 }
